@@ -1,0 +1,205 @@
+uploads = []
+
+[[generated]]
+id = "aXJe1dpoQ9jpv4H1XB3qd"
+uri = "file://artifacts/nextjs-app/public/ai-seo-visual.png"
+type = "image"
+title = "ai seo hero visual"
+
+[[generated]]
+id = "sHhqdx0RKMT8BD3Q8nX8p"
+uri = "file://artifacts/nextjs-app/public/ai-seo-team.png"
+type = "image"
+title = "seo team dashboard meeting"
+
+[[generated]]
+id = "fjiGLgpgY5k2aIZGtJtEF"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-llm.png"
+type = "image"
+title = "llm seo card"
+
+[[generated]]
+id = "XL2l4cksSFbM4I0_WaKNt"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-aeo.png"
+type = "image"
+title = "aeo seo card"
+
+[[generated]]
+id = "5UmoOIx1GasxShINbXU4a"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-geo.png"
+type = "image"
+title = "geo seo card"
+
+[[generated]]
+id = "hIZAmordZ5vzSQlKMNgmQ"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-keyword.png"
+type = "image"
+title = "keyword research card"
+
+[[generated]]
+id = "-7zc5hBhkMGc763_giDWz"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-semantic.png"
+type = "image"
+title = "semantic seo card"
+
+[[generated]]
+id = "xO0sgbPtjMciPzLr_3s4s"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-technical.png"
+type = "image"
+title = "technical seo card"
+
+[[generated]]
+id = "5-f470AxadwNlKYGZYbl3"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-chatgpt.png"
+type = "image"
+title = "chatgpt seo card"
+
+[[generated]]
+id = "5iZRALyiU07potSwwGivI"
+uri = "file://artifacts/nextjs-app/public/ai-seo-card-google-ai.png"
+type = "image"
+title = "google ai mode card"
+
+[[generated]]
+id = "-NxEylVSV_U3QsOyikMMp"
+uri = "file://artifacts/nextjs-app/public/industry-healthcare.png"
+type = "image"
+title = "healthcare industry"
+
+[[generated]]
+id = "WseWENIU8lq0FJdgp1_wM"
+uri = "file://artifacts/nextjs-app/public/industry-real-estate.png"
+type = "image"
+title = "real estate industry"
+
+[[generated]]
+id = "LrTtxpTigYHV_C0GesMvZ"
+uri = "file://artifacts/nextjs-app/public/industry-ecommerce.png"
+type = "image"
+title = "ecommerce industry"
+
+[[generated]]
+id = "pz8zch_Z0V1wdjixwafO_"
+uri = "file://artifacts/nextjs-app/public/industry-shopify.png"
+type = "image"
+title = "shopify retail industry"
+
+[[generated]]
+id = "ggAyTX4TFV03xIldxFLJp"
+uri = "file://artifacts/nextjs-app/public/industry-logistics.png"
+type = "image"
+title = "logistics industry"
+
+[[generated]]
+id = "LAQgX6PTFMQ10TlfP0gyB"
+uri = "file://artifacts/nextjs-app/public/industry-education.png"
+type = "image"
+title = "education industry"
+
+[[generated]]
+id = "wfBJ_yQ2IrkM-aqg9AGzv"
+uri = "file://artifacts/nextjs-app/public/industry-b2b.png"
+type = "image"
+title = "b2b industry"
+
+[[generated]]
+id = "U1pTBLS6oK23QIBbWQ1y5"
+uri = "file://artifacts/nextjs-app/public/industry-enterprise.png"
+type = "image"
+title = "enterprise industry"
+
+[[generated]]
+id = "li1MP-leOPNVw3UnQlCmM"
+uri = "file://artifacts/nextjs-app/public/cta-laptop-analytics.png"
+type = "image"
+title = "laptop analytics cta"
+
+[[generated]]
+id = "Cqm28jwpC87i8oW8QEOd-"
+uri = "file://artifacts/nextjs-app/public/cta-meeting-analytics.png"
+type = "image"
+title = "meeting room analytics CTA image"
+
+[[generated]]
+id = "bjHZyihdTEO7Q-a1R_o1g"
+uri = "file://artifacts/nextjs-app/public/faq-woman.png"
+type = "image"
+title = "FAQ question mark woman"
+
+[[generated]]
+id = "5a4iBP_MbrF0eKCRRszGK"
+uri = "file://artifacts/nextjs-app/public/hero-local-seo.png"
+type = "image"
+title = "Local SEO hero background photo"
+
+[[generated]]
+id = "2Hi9KDB4bfT7TtBrNaxML"
+uri = "file://artifacts/nextjs-app/public/local-seo-team-analytics.png"
+type = "image"
+title = "Team analytics monitors image for local SEO page"
+
+[[generated]]
+id = "HDl5iJj-YHrQ55YXduA9e"
+uri = "file://artifacts/nextjs-app/public/local-card-citations.png"
+type = "image"
+title = "local-card-citations.png"
+
+[[generated]]
+id = "L1tE0g54tbjD6H9VtMgTK"
+uri = "file://artifacts/nextjs-app/public/local-card-gbp.png"
+type = "image"
+title = "local-card-gbp.png"
+
+[[generated]]
+id = "_7X59Hmx3QCVJuDuhxk-J"
+uri = "file://artifacts/nextjs-app/public/local-card-reviews.png"
+type = "image"
+title = "local-card-reviews.png"
+
+[[generated]]
+id = "eDjovKENhVGOwuNpKjSyR"
+uri = "file://artifacts/nextjs-app/public/local-card-location-pages.png"
+type = "image"
+title = "local-card-location-pages.png"
+
+[[generated]]
+id = "TYHA6pQ6oDclqaq3z-C-v"
+uri = "file://artifacts/nextjs-app/public/local-card-link-building.png"
+type = "image"
+title = "local-card-link-building.png"
+
+[[generated]]
+id = "W8aYTFmKrI6_JugH5iPAK"
+uri = "file://artifacts/nextjs-app/public/local-card-keywords.png"
+type = "image"
+title = "local-card-keywords.png"
+
+[[generated]]
+id = "dmsV9u4fBVB81T4nMq8vy"
+uri = "file://artifacts/nextjs-app/public/local-card-audit.png"
+type = "image"
+title = "local-card-audit.png"
+
+[[generated]]
+id = "1eV69uRq8SjTmtVgJy2l8"
+uri = "file://artifacts/nextjs-app/public/local-card-consulting.png"
+type = "image"
+title = "local-card-consulting.png"
+
+[[generated]]
+id = "z_38-hkSHrvK7WiUE_re7"
+uri = "file://artifacts/nextjs-app/public/local-cta-analytics.png"
+type = "image"
+title = "CTA analytics banner image"
+
+[[outputs]]
+id = "QHHjBn1yO0luO2kr2YAZ4"
+uri = "file://top-seo-services.tar.gz"
+type = "unspecified"
+title = "top-seo-services.tar.gz — Full source code"
+
+[[outputs]]
+id = "wO1QAQHkfrKOex0S_1cIT"
+uri = "file://DEPLOYMENT.md"
+type = "text"
+title = "DEPLOYMENT.md — Server setup instructions"
